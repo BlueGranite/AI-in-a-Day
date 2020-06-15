@@ -7254,7 +7254,7 @@ Age,MaritalStatus,Gender,YearlyIncome,TotalChildren,NumberChildrenAtHome,Educati
 40,M,F,70000,5,0,Graduate Degree,Professional,1,0,OR,97005,0
 57,S,F,80000,4,0,Graduate Degree,Skilled Manual,1,0,OR,97005,0
 43,M,M,70000,4,0,Graduate Degree,Professional,1,0,OR,97005,0
-40,S,F,70000,5,0,Graduate Degree,Professional,1,0,OR,97015-6403,1
+40,S,F,70000,5,0,Graduate Degree,Professional,1,0,OR,97015,1
 44,S,F,70000,4,0,Graduate Degree,Professional,1,0,OR,97071,1
 49,M,M,70000,4,0,Graduate Degree,Professional,1,0,OR,97034,1
 46,S,F,70000,5,0,Graduate Degree,Professional,1,0,OR,97330,1
