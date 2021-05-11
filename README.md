@@ -18,4 +18,4 @@
 
 ### Let BlueGranite help your organization
  - [Professional training](https://www.bluegranite.com/power-bi-training)
- - [Enterprise deployments](https://www.bluegranite.com/power-bi-deployme)
+ - [Enterprise deployments](https://www.bluegranite.com/power-bi-deployment)
